@@ -5,14 +5,14 @@ package gitdemo;
 public class GitDemo {
 
 	public static void main(String[] args) {
-		//test....................ssssssssssssfasdad
-		//do.........ssssssssssqsdfasdfasd
-		//test....................adfafsda
-		//do.........ssssssssssdddddddfasdfasd
-		//dddddddddddddddddddaaaaaasafafafa
-		//aaaaaaaaaaaaaaaaaaa少时诵诗书所所所所所
-		//111111111111111111111sssssssdsfasd
-		//aaaaaaaaaaaaaaaaaassssssssssssd
+		//test....................ssssssssssssfasdada
+		//do.........ssssssssssqsdfasdfasdaaaaaaaaaa
+		//test....................adfafsdaaaaaaaaaaaaaa
+		//do.........ssssssssssdddddddfasdfasdaaaaaaaaaaa
+		//dddddddddddddddddddaaaaaasafafafaaaaaaaaaaaa
+		//aaaaaaaaaaaaaaaaaaa少时诵诗书所所所所所aaaaaaaaaaaa
+		//111111111111111111111sssssssdsfasdaaaaaaaaaaa
+		//aaaaaaaaaaaaaaaaaassssssssssssdaaaaaaa
 			//bbbbbbbbbbbbbbbdddddddddddddd
         //ccccccccccccccccccccddddddddddddd
         //ddddddddddddddddddddddddddddddddddddd
